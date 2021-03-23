@@ -1,0 +1,29 @@
+{
+    "name": "ReidyQOLExtensions",
+    "displayName": "ReidyPack",
+    "publisher": "JustinReidy",
+    "description": "QOL for JS development",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [
+        "formulahendry.auto-close-tag",
+        "formulahendry.auto-rename-tag",
+        "dzannotti.vscode-babel-coloring",
+        "mgmcdermott.vscode-language-babel",
+        "oenraadS.bracket-pair-colorizer-2",
+        "dsznajder.es7-react-js-snippets",
+        "xabikos.javascriptsnippets",
+        "pkief.material-icon-theme",
+        "equimper.react-native-react-redux",
+        "visualstudioexptteam.vscodeintellicode",
+        "christian-kohler.path-intellisense"
+    ],
+    "dependencies": {
+        "vsce": "^1.87.0"
+    }
+}
